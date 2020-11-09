@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/YeoLab/bonvoyage.svg?branch=master)](https://travis-ci.org/YeoLab/bonvoyage)[![](https://img.shields.io/pypi/v/bonvoyage.svg)](https://pypi.python.org/pypi/bonvoyage)
 
-## What is `bonvoyage`?
+## What is `bonvoyage`?  ???
 
 Transform percentage-based units into a 2d space to evaluate changes in distribution with both magnitude and direction.
 
